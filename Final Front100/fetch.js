@@ -1,0 +1,17 @@
+let words = [
+  "hablar",
+  "cabello",
+  "libro",
+  "montar",
+  "cartera",
+  "poner",
+  "coger",
+  "pollo",
+  "oso",
+  "perro",
+  "amable",
+  "facil",
+  "divertido",
+  "camisa",
+  "verde",
+];
